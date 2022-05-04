@@ -1,5 +1,9 @@
-<h1 align="center">👋Hello, I'm Victor Besseler.</h1>
-<h3 align="center">I'm a game developer and general technology enthusiast from Brazil.</h3>
+<h1 align="center">Victor Besseler, 25</h1>
+<h3 align="center">About Me:</h3>
+<p align="center">I'm a 25 years old game developer and general technology enthusiast from Brazil.
+I'm interested mainly in game development, but I also enjoy other fields such as computer networking and security in general.
+I have experience developing and running a runescape private server and I'm currently working on an actual 2D top-down RPG made with Unity and C#.
+</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
